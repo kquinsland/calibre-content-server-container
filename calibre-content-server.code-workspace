@@ -1,0 +1,21 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "cSpell.words": [
+            "calibredb",
+            "libc",
+            "libegl",
+            "libfontconfig1",
+            "libfreetype6",
+            "libglx0",
+            "libopengl",
+            "libxcb",
+            "libxkbcommon0",
+            "userdb"
+        ]
+    }
+}
